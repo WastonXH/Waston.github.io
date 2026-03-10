@@ -27,5 +27,20 @@
 - 学习编程的初学者
 - 追求简单高效的技术爱好者
 
+### 🔍 核心内容入口（点击即可查看）
+<details>
+<summary>📋 问题与解决方案汇总（点击展开/收起）</summary>
+<br>
+所有开发中遇到的问题、AI方案、最终选择都在这里：<br>
+👉 <a href="https://github.com/WastonXH/Waston.github.io/blob/main/问题与解决方案汇总.md">问题与解决方案汇总.md</a>
+</details>
+
+<details>
+<summary>📆 阶段开发记录（点击展开/收起）</summary>
+<br>
+按天/阶段记录开发细节、AI提示词、核心操作：<br>
+👉 <a href="https://github.com/WastonXH/Waston.github.io/tree/main/阶段开发记录">阶段开发记录文件夹</a>
+</details>
+
 ### 备注
 本项目文档会持续迭代更新，所有内容均为实战过程中的真实记录，包括 AI 交互过程、代码复用细节、问题排查思路等，力求为同类学习者提供可落地的参考。
